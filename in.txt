@@ -1,0 +1,17 @@
+sum = 0;
+i = 1;
+n = 1;
+m = 0;
+read flag;
+write flag;
+if flag > 0 then 
+    m = 11 - 1;
+else
+    m = (100/10 + 10)*5;
+end;
+write m;
+repeat
+    sum = sum + i;
+    i = i + n;
+until i > m;
+write sum;
