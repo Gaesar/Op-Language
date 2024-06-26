@@ -46,6 +46,14 @@ sum = 55
 
 ## 快速开始
 
-cmd输入gen.bat op，编译项目
+### 配置环境
 
-cmd输入op ”测试的文件名“，运行程序
+1.下载配置Mingw:[Win10系统下用汇编代码输出Hello World - 灰信网（软件开发博客聚合） (freesion.com)](https://www.freesion.com/article/4840365954/#1Mingw_3)
+
+2.下载配置flex&bison:[手把手教你win10下lex与yacc的安装_lex安装-CSDN博客](https://blog.csdn.net/wang_yr/article/details/106000167)
+
+### 运行程序
+
+1.cmd输入gen.bat op，编译项目
+
+2.cmd输入op ”测试的文件名“，运行程序6
